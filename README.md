@@ -14,3 +14,7 @@ Clone the repository and navigate to the downloaded folder.
 		git clone https://github.com/marshall7m/udacity_tv_script_generation.git
 		cd udacity_tv_script_generation
 	```
+
+# License
+
+[MIT](https://github.com/marshall7m/udacity_tv_script_generation/blob/master/LICENSE)
